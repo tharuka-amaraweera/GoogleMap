@@ -1,0 +1,43 @@
+#map {
+  width: 100%;
+  height: 525px;
+  background-color: grey;
+}
+
+.bttn{
+  position: absolute;
+  width: 30%;
+  background-color: aquamarine
+}
+
+#tbl{
+  background-color: coral;
+  width: 500px;
+  height: 400px;
+}
+
+table{
+  width: 100%;
+  font: 17px Calibri;
+
+}
+
+table, th, td{
+
+  border: solid 1px #DDD;
+  border-collapse: collapse;
+  padding: 2px 3px;
+  text-align: center;
+
+}
+
+.dltbutton{
+  position: absolute;
+  width: 30%;
+  background-color: blueviolet;
+  top:830px;
+}
+
+.drawBtn{
+  width: 50%
+}
